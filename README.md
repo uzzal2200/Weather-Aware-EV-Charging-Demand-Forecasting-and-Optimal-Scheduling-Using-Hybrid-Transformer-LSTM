@@ -19,6 +19,13 @@ The pipeline performs the following steps in one run:
 4. Run MILP-based charging optimization.
 5. Generate all figures and tables used in the study.
 
+## Data Sources
+
+- EV charging data:
+  https://catalog.data.gov/dataset/electric-vehicle-ev-charging-data-municipal-lots-and-garages
+- Weather data (ASOS):
+  https://mesonet.agron.iastate.edu/request/download.phtml?network=NY_ASOS
+
 ## Folder Structure
 
 ```
