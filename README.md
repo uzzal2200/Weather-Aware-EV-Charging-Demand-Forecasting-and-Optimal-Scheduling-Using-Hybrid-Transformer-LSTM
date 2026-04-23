@@ -107,4 +107,4 @@ Adjust settings from `src/config.py`:
 
 ## Author
 
-MD Uzzal Mia
+MD Uzzal Mia and Sajib Debnath
